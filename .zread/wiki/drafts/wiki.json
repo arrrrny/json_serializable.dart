@@ -1,0 +1,175 @@
+{
+  "id": "2026-08-19-082417",
+  "generated_at": "2026-08-19T05:24:17.946206Z",
+  "language": "en",
+  "pages": [
+    {
+      "slug": "1-overview",
+      "title": "Overview",
+      "file": "1-overview.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-quick-start",
+      "title": "Quick Start",
+      "file": "2-quick-start.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-monorepo-package-layout",
+      "title": "Monorepo Package Layout",
+      "file": "3-monorepo-package-layout.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-jsonserializable-class-annotation-reference",
+      "title": "JsonSerializable Class Annotation Reference",
+      "file": "4-jsonserializable-class-annotation-reference.md",
+      "section": "Deep Dive",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-jsonkey-field-annotation-reference",
+      "title": "JsonKey Field Annotation Reference",
+      "file": "5-jsonkey-field-annotation-reference.md",
+      "section": "Deep Dive",
+      "level": "Beginner"
+    },
+    {
+      "slug": "6-jsonenum-jsonvalue-and-jsonliteral-annotations",
+      "title": "JsonEnum, JsonValue, and JsonLiteral Annotations",
+      "file": "6-jsonenum-jsonvalue-and-jsonliteral-annotations.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "7-jsonconverter-for-custom-type-serialization",
+      "title": "JsonConverter for Custom Type Serialization",
+      "file": "7-jsonconverter-for-custom-type-serialization.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "8-generator-pipeline-from-annotations-to-generated-code",
+      "title": "Generator Pipeline: From Annotations to Generated Code",
+      "file": "8-generator-pipeline-from-annotations-to-generated-code.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "9-the-typehelper-extension-system",
+      "title": "The TypeHelper Extension System",
+      "file": "9-the-typehelper-extension-system.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "10-decodehelper-and-encodehelper-fromjson-tojson-generation",
+      "title": "DecodeHelper and EncodeHelper: fromJson/toJson Generation",
+      "file": "10-decodehelper-and-encodehelper-fromjson-tojson-generation.md",
+      "section": "Deep Dive",
+      "level": "Advanced"
+    },
+    {
+      "slug": "11-generatorhelper-orchestration-and-field-resolution",
+      "title": "GeneratorHelper Orchestration and Field Resolution",
+      "file": "11-generatorhelper-orchestration-and-field-resolution.md",
+      "section": "Deep Dive",
+      "level": "Advanced"
+    },
+    {
+      "slug": "12-schemahelper-json-schema-generation",
+      "title": "SchemaHelper: JSON Schema Generation",
+      "file": "12-schemahelper-json-schema-generation.md",
+      "section": "Deep Dive",
+      "level": "Advanced"
+    },
+    {
+      "slug": "13-built-in-type-helpers-datetime-duration-bigint-uri",
+      "title": "Built-in Type Helpers: DateTime, Duration, BigInt, Uri",
+      "file": "13-built-in-type-helpers-datetime-duration-bigint-uri.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "14-collection-type-helpers-iterable-map-record",
+      "title": "Collection Type Helpers: Iterable, Map, Record",
+      "file": "14-collection-type-helpers-iterable-map-record.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "15-enum-serialization-and-enumhelper",
+      "title": "Enum Serialization and EnumHelper",
+      "file": "15-enum-serialization-and-enumhelper.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "16-jsonconverterhelper-and-generic-factory-support",
+      "title": "JsonConverterHelper and Generic Factory Support",
+      "file": "16-jsonconverterhelper-and-generic-factory-support.md",
+      "section": "Deep Dive",
+      "level": "Advanced"
+    },
+    {
+      "slug": "17-build-configuration-and-builder-registration",
+      "title": "Build Configuration and Builder Registration",
+      "file": "17-build-configuration-and-builder-registration.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "18-the-sharedpartbuilder-pipeline-and-build_runner-integration",
+      "title": "The SharedPartBuilder Pipeline and build_runner Integration",
+      "file": "18-the-sharedpartbuilder-pipeline-and-build_runner-integration.md",
+      "section": "Deep Dive",
+      "level": "Advanced"
+    },
+    {
+      "slug": "19-generic-classes-with-genericargumentfactories",
+      "title": "Generic Classes with genericArgumentFactories",
+      "file": "19-generic-classes-with-genericargumentfactories.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "20-checked-deserialization-for-safer-fromjson",
+      "title": "Checked Deserialization for Safer fromJson",
+      "file": "20-checked-deserialization-for-safer-fromjson.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "21-writing-a-custom-typehelper",
+      "title": "Writing a Custom TypeHelper",
+      "file": "21-writing-a-custom-typehelper.md",
+      "section": "Deep Dive",
+      "level": "Advanced"
+    },
+    {
+      "slug": "22-checked_yaml-yaml-decoding-with-source-aware-errors",
+      "title": "checked_yaml: YAML Decoding with Source-Aware Errors",
+      "file": "22-checked_yaml-yaml-decoding-with-source-aware-errors.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "23-field-resolution-ordering-and-inheritance",
+      "title": "Field Resolution, Ordering, and Inheritance",
+      "file": "23-field-resolution-ordering-and-inheritance.md",
+      "section": "Deep Dive",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "24-settings-configuration-merging-and-classconfig-internals",
+      "title": "Settings, Configuration Merging, and ClassConfig Internals",
+      "file": "24-settings-configuration-merging-and-classconfig-internals.md",
+      "section": "Deep Dive",
+      "level": "Advanced"
+    }
+  ]
+}
